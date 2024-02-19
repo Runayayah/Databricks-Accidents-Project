@@ -1,5 +1,6 @@
 # Databricks Accidents Project
-Présentation du Projet
+
+## Présentation du Projet
 Ce projet vise à analyser les données sur les accidents de la route pour construire et héberger un modèle prédictif utilisant Azure Databricks. L'objectif est de prédire la gravité des accidents avec une précision élevée, en utilisant des techniques de machine learning avancées.
 
 ## Sources des Données
