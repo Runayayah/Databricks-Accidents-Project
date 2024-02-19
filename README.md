@@ -7,7 +7,7 @@ Les données utilisées pour ce projet proviennent de la base de données publiq
 
 Lien vers le tutoriel: https://larevueia.fr/xgboost-vs-random-forest-predire-la-gravite-dun-accident-de-la-route/
 
-##É léments du Repository
+## Éléments du Repository
 Ce repository contient les éléments suivants :
 
 * Modelisation.dbc : Un notebook Databricks qui décrit tout le processus de modélisation, incluant le prétraitement des données, la construction des modèles de machine learning, et l'optimisation des paramètres.
